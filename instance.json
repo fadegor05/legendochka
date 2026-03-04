@@ -241,17 +241,6 @@
           "url": "https://cdn.modrinth.com/data/rI0hvYcd/versions/H81pJbu3/visuality-0.7.12%2B1.21.11.jar"
         },
         {
-          "name": "Visual Workbench",
-          "image_url": "https://cdn.modrinth.com/data/kfqD1JRw/e56a31e890d21c82cc454593e023df09f5ae3c36_96.webp",
-          "type": "both",
-          "mod_id": "visual-workbench",
-          "file_id": "21.11.1",
-          "source": "modrinth",
-          "from": "",
-          "file": "VisualWorkbench-v21.11.1-mc1.21.11-Fabric.jar",
-          "url": "https://cdn.modrinth.com/data/kfqD1JRw/versions/dn5ujpT7/VisualWorkbench-v21.11.1-mc1.21.11-Fabric.jar"
-        },
-        {
           "name": "Roughly Enough Items (REI)",
           "image_url": "https://cdn.modrinth.com/data/nfn13YXA/54ac5daa4166011bae713448e84413987316433a_96.webp",
           "type": "both",
@@ -263,17 +252,6 @@
           "url": "https://cdn.modrinth.com/data/nfn13YXA/versions/zwCdgCLz/RoughlyEnoughItems-21.11.814-fabric.jar"
         },
         {
-          "name": "Oritech",
-          "image_url": "https://cdn.modrinth.com/data/4sYI62kA/e032cbed64099e56c1d005ab7717325247b81f07_96.webp",
-          "type": "both",
-          "mod_id": "oritech",
-          "file_id": "Ttqmf9Aj",
-          "source": "modrinth",
-          "from": "",
-          "file": "oritech-fabric-1.21.1-1.0.1.jar",
-          "url": "https://cdn.modrinth.com/data/4sYI62kA/versions/Ttqmf9Aj/oritech-fabric-1.21.1-1.0.1.jar"
-        },
-        {
           "name": "Architectury API",
           "image_url": "https://cdn.modrinth.com/data/lhGA9TYQ/05fe3a61c28faaccaec3533b92e1b321edde7bf6_96.webp",
           "type": "both",
@@ -283,6 +261,292 @@
           "from": "",
           "file": "architectury-19.0.1-fabric.jar",
           "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/uNdfrcQ8/architectury-19.0.1-fabric.jar"
+        },
+        {
+          "name": "Cloth Config API",
+          "image_url": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
+          "type": "both",
+          "mod_id": "cloth-config",
+          "file_id": "21.11.153+fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "cloth-config-21.11.153-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar"
+        },
+        {
+          "name": "Chat Animation [Smooth Chat]",
+          "image_url": "https://cdn.modrinth.com/data/DnNYdJsx/f6b2002ed12e72c4d74d56b80fe768ae96cd4d24_96.webp",
+          "type": "both",
+          "mod_id": "chatanimation",
+          "file_id": "MdhlSl4K",
+          "source": "modrinth",
+          "from": "",
+          "file": "chatanimation-fabric-1.21.11-1.1.3.jar",
+          "url": "https://cdn.modrinth.com/data/DnNYdJsx/versions/MdhlSl4K/chatanimation-fabric-1.21.11-1.1.3.jar"
+        },
+        {
+          "name": "Towns and Towers",
+          "image_url": "https://cdn.modrinth.com/data/DjLobEOy/f7f552ec019c9ad8b777c9ab5eecbb95da8707a0_96.webp",
+          "type": "both",
+          "mod_id": "towns-and-towers",
+          "file_id": "1.13.8",
+          "source": "modrinth",
+          "from": "",
+          "file": "t_and_t-fabric-neoforge-1.13.8.jar",
+          "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/vXLcy6ev/t_and_t-fabric-neoforge-1.13.8.jar"
+        },
+        {
+          "name": "Cristel Lib",
+          "image_url": "https://cdn.modrinth.com/data/cl223EMc/22b1072af55724911840b93a30cf8d3b3fc514bf_96.webp",
+          "type": "both",
+          "mod_id": "cristel-lib",
+          "file_id": "fabric-1.21.11-3.0.4",
+          "source": "modrinth",
+          "from": "",
+          "file": "cristellib-fabric-1.21.11-3.0.4.jar",
+          "url": "https://cdn.modrinth.com/data/cl223EMc/versions/6vtzWpRI/cristellib-fabric-1.21.11-3.0.4.jar"
+        },
+        {
+          "name": "Waystones",
+          "image_url": "https://cdn.modrinth.com/data/LOpKHB2A/6c81041b60d525d63c0b9da497db66cfda215e16_96.webp",
+          "type": "both",
+          "mod_id": "waystones",
+          "file_id": "21.11.8+fabric-1.21.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "waystones-fabric-1.21.11-21.11.8.jar",
+          "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/eK2mcF5B/waystones-fabric-1.21.11-21.11.8.jar"
+        },
+        {
+          "name": "Balm",
+          "image_url": "https://cdn.modrinth.com/data/MBAkmtvl/285b7bcfd6e525c043e640b08f3efc0cde90f7dd_96.webp",
+          "type": "both",
+          "mod_id": "balm",
+          "file_id": "21.11.6+fabric-1.21.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "balm-fabric-1.21.11-21.11.6.jar",
+          "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/sbE6e5Gh/balm-fabric-1.21.11-21.11.6.jar"
+        },
+        {
+          "name": "Carry On",
+          "image_url": "https://cdn.modrinth.com/data/joEfVgkn/d7750a532cd45c9020bf4d07f304191de6e98c19_96.webp",
+          "type": "both",
+          "mod_id": "carry-on",
+          "file_id": "twgpqIAS",
+          "source": "modrinth",
+          "from": "",
+          "file": "carryon-fabric-1.21.11-2.9.0.jar",
+          "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/twgpqIAS/carryon-fabric-1.21.11-2.9.0.jar"
+        },
+        {
+          "name": "Farmer's Delight Refabricated",
+          "image_url": "https://cdn.modrinth.com/data/7vxePowz/26e8448993e9bda4dba92b6e7a1a13d9c4333138.png",
+          "type": "both",
+          "mod_id": "farmers-delight-refabricated",
+          "file_id": "1.21.11-3.4.9",
+          "source": "modrinth",
+          "from": "",
+          "file": "FarmersDelight-1.21.11-3.4.9+refabricated.jar",
+          "url": "https://cdn.modrinth.com/data/7vxePowz/versions/ZP4Uof9C/FarmersDelight-1.21.11-3.4.9%2Brefabricated.jar"
+        },
+        {
+          "name": "Sounds",
+          "image_url": "https://cdn.modrinth.com/data/ZouiUX7t/b6ae84ea14654245f58856722473afeddf72360c_96.webp",
+          "type": "both",
+          "mod_id": "sound",
+          "file_id": "2.4.23+1.21.11-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "sounds-2.4.23+edge+1.21.11-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/wvhDSvYI/sounds-2.4.23%2Bedge%2B1.21.11-fabric.jar"
+        },
+        {
+          "name": "M.R.U",
+          "image_url": "https://cdn.modrinth.com/data/SNVQ2c0g/82339bfc8a0a3a6a3c376f5c29555a378379cfa0_96.webp",
+          "type": "both",
+          "mod_id": "mru",
+          "file_id": "1.0.26+edge+1.21.11-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "mru-1.0.26+edge+1.21.11-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/XXzIJdq5/mru-1.0.26%2Bedge%2B1.21.11-fabric.jar"
+        },
+        {
+          "name": "YetAnotherConfigLib (YACL)",
+          "image_url": "https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp",
+          "type": "both",
+          "mod_id": "yacl",
+          "file_id": "3.8.2+1.21.11-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar"
+        },
+        {
+          "name": "Durability Tooltip",
+          "image_url": "https://cdn.modrinth.com/data/smUP7V3r/icon.png",
+          "type": "both",
+          "mod_id": "durability-tooltip",
+          "file_id": "1.1.6-fabric-mc1.21.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "durabilitytooltip-1.1.6-fabric-mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/smUP7V3r/versions/dCPa5AFM/durabilitytooltip-1.1.6-fabric-mc1.21.11.jar"
+        },
+        {
+          "name": "SuperMartijn642's Config Lib",
+          "image_url": "https://cdn.modrinth.com/data/LN9BxssP/ad25597dd1b10b49cdfbc97c70d401e3158000f7_96.webp",
+          "type": "both",
+          "mod_id": "supermartijn642s-config-lib",
+          "file_id": "1.1.8-fabric-mc1.21.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "supermartijn642configlib-1.1.8-fabric-mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/LN9BxssP/versions/CwICbJN9/supermartijn642configlib-1.1.8-fabric-mc1.21.11.jar"
+        },
+        {
+          "name": "Repurposed Structures - Fabric",
+          "image_url": "https://cdn.modrinth.com/data/muf0XoRe/icon.png",
+          "type": "both",
+          "mod_id": "repurposed-structures-fabric",
+          "file_id": "7.6.1+1.21.11-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "repurposed_structures-7.6.1+1.21.11-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/muf0XoRe/versions/plvrc4Gd/repurposed_structures-7.6.1%2B1.21.11-fabric.jar"
+        },
+        {
+          "name": "MidnightLib",
+          "image_url": "https://cdn.modrinth.com/data/codAaoxh/76ce92742fea39dadbf9a68a389b4690f10ebd52_96.webp",
+          "type": "both",
+          "mod_id": "midnightlib",
+          "file_id": "1.9.2+1.21.11-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "midnightlib-fabric-1.9.2+1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/codAaoxh/versions/OeTayxh3/midnightlib-fabric-1.9.2%2B1.21.11.jar"
+        },
+        {
+          "name": "ThreadTweak",
+          "image_url": "https://cdn.modrinth.com/data/vSEH1ERy/a23fc8c2cbeadbea6df1957d3712eac571a56fcb_96.webp",
+          "type": "both",
+          "mod_id": "threadtweak",
+          "file_id": "0.1.8",
+          "source": "modrinth",
+          "from": "",
+          "file": "threadtweak-fabric-0.1.8+mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/vSEH1ERy/versions/9t60vZ1h/threadtweak-fabric-0.1.8%2Bmc1.21.11.jar"
+        },
+        {
+          "name": "Friends\u0026Foes (Fabric/Quilt)",
+          "image_url": "https://cdn.modrinth.com/data/POQ2i9zu/0d5db692d86ca2f99935ebc01123d4c55a714122_96.webp",
+          "type": "both",
+          "mod_id": "friends-and-foes",
+          "file_id": "fabric-4.0.21+mc1.21.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "friendsandfoes-fabric-4.0.21+mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/POQ2i9zu/versions/PjL3SFdi/friendsandfoes-fabric-4.0.21%2Bmc1.21.11.jar"
+        },
+        {
+          "name": "Resourceful Lib",
+          "image_url": "https://cdn.modrinth.com/data/G1hIVOrD/52130f41d05162ce6d7d1832a47d3c238d102632_96.webp",
+          "type": "both",
+          "mod_id": "resourceful-lib",
+          "file_id": "Q2Njmve7",
+          "source": "modrinth",
+          "from": "",
+          "file": "ResourcefulLib-fabric-1.21.11-3.11.0.jar",
+          "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/Q2Njmve7/ResourcefulLib-fabric-1.21.11-3.11.0.jar"
+        },
+        {
+          "name": "Smooth Scrolling",
+          "image_url": "https://cdn.modrinth.com/data/CllP7wW0/6d787d5cd5fface4fe9a5f6ce0770576bca09132.png",
+          "type": "both",
+          "mod_id": "smooth-scroll",
+          "file_id": "2.6.5",
+          "source": "modrinth",
+          "from": "",
+          "file": "smoothscroll-2.6.5.jar",
+          "url": "https://cdn.modrinth.com/data/CllP7wW0/versions/FBqx2Ic3/smoothscroll-2.6.5.jar"
+        },
+        {
+          "name": "Explorify",
+          "image_url": "https://cdn.modrinth.com/data/HSfsxuTo/e036a417f857abd937326db5c131296ad88bad5b_96.webp",
+          "type": "both",
+          "mod_id": "explorify",
+          "file_id": "9vHj342y",
+          "source": "modrinth",
+          "from": "",
+          "file": "Explorify v1.6.4 f15-88.mod.jar",
+          "url": "https://cdn.modrinth.com/data/HSfsxuTo/versions/9vHj342y/Explorify%20v1.6.4%20f15-88.mod.jar"
+        },
+        {
+          "name": "Status Effect Bars",
+          "image_url": "https://cdn.modrinth.com/data/x02cBj9Y/7ee93fac37512f4f04aa82f15deada7b2ca9269f.png",
+          "type": "both",
+          "mod_id": "status-effect-bars",
+          "file_id": "1.0.10",
+          "source": "modrinth",
+          "from": "",
+          "file": "status-effect-bars-1.0.10.jar",
+          "url": "https://cdn.modrinth.com/data/x02cBj9Y/versions/iY0FQLmu/status-effect-bars-1.0.10.jar"
+        },
+        {
+          "name": "Wakes",
+          "image_url": "https://cdn.modrinth.com/data/dlNu0RQY/46be95a28f27da8a98e9721b6695703fcec2d7d8_96.webp",
+          "type": "both",
+          "mod_id": "wakes",
+          "file_id": "0.5.1+1.21.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "wakes-0.5.1+1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/dlNu0RQY/versions/4zYKqDML/wakes-0.5.1%2B1.21.11.jar"
+        },
+        {
+          "name": "Structory",
+          "image_url": "https://cdn.modrinth.com/data/aKCwCJlY/81c79a9d58c605ad79c4a8da15c865902bec8d42_96.webp",
+          "type": "both",
+          "mod_id": "structory",
+          "file_id": "MXU49bpN",
+          "source": "modrinth",
+          "from": "",
+          "file": "Structory_1.21.x_v1.3.14.jar",
+          "url": "https://cdn.modrinth.com/data/aKCwCJlY/versions/MXU49bpN/Structory_1.21.x_v1.3.14.jar"
+        },
+        {
+          "name": "MacOS Input Fixes",
+          "image_url": "https://cdn.modrinth.com/data/x9BrsVME/7077ea25a346ecdfa87d186d35a7fab896329d43.png",
+          "type": "both",
+          "mod_id": "macos-input-fixes",
+          "file_id": "1.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "macos-input-fixes-1.11.jar",
+          "url": "https://cdn.modrinth.com/data/x9BrsVME/versions/LJz2SKJJ/macos-input-fixes-1.11.jar"
+        },
+        {
+          "name": "Particle Effects",
+          "image_url": "https://cdn.modrinth.com/data/PLAGcSFJ/a1c206381f51a0fb2bf5e5e38bb850392b31141b_96.webp",
+          "type": "both",
+          "mod_id": "particle-effects",
+          "file_id": "1.2.0+1.21.11+fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "ParticleEffects-1.2.0+1.21.11+fabric.jar",
+          "url": "https://cdn.modrinth.com/data/PLAGcSFJ/versions/Te80MfqK/ParticleEffects-1.2.0%2B1.21.11%2Bfabric.jar"
+        },
+        {
+          "name": "Luki's Grand Capitals",
+          "image_url": "https://cdn.modrinth.com/data/8Lw09aLb/3a40a5289738375174b0bab530858dc3f128ab82_96.webp",
+          "type": "both",
+          "mod_id": "lukis-grand-capitals",
+          "file_id": "1.1.3+mod",
+          "source": "modrinth",
+          "from": "",
+          "file": "lukis-grand-capitals-1.1.3.jar",
+          "url": "https://cdn.modrinth.com/data/8Lw09aLb/versions/RBwKCOh4/lukis-grand-capitals-1.1.3.jar"
         }
       ]
     }
