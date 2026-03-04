@@ -19,6 +19,160 @@
           "from": "",
           "file": "fabric-api-0.141.3+1.21.11.jar",
           "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/i5tSkVBH/fabric-api-0.141.3%2B1.21.11.jar"
+        },
+        {
+          "name": "Create Fly",
+          "image_url": "https://cdn.modrinth.com/data/dKvj0eNn/a1e1ad6f018c3a47cb300edbf0ebebce894bfd45_96.webp",
+          "type": "both",
+          "mod_id": "create-fly",
+          "file_id": "1.21.11-6.0.9-5",
+          "source": "modrinth",
+          "from": "",
+          "file": "create-fly-1.21.11-6.0.9-5.jar",
+          "url": "https://cdn.modrinth.com/data/dKvj0eNn/versions/fn0H9rSj/create-fly-1.21.11-6.0.9-5.jar"
+        },
+        {
+          "name": "Sodium",
+          "image_url": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+          "type": "both",
+          "mod_id": "sodium",
+          "file_id": "mc1.21.11-0.8.6-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "sodium-fabric-0.8.6+mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/ZPWbiWXz/sodium-fabric-0.8.6%2Bmc1.21.11.jar"
+        },
+        {
+          "name": "FerriteCore",
+          "image_url": "https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp",
+          "type": "both",
+          "mod_id": "ferrite-core",
+          "file_id": "8.2.0-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "ferritecore-8.2.0-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/Ii0gP3D8/ferritecore-8.2.0-fabric.jar"
+        },
+        {
+          "name": "Entity Culling",
+          "image_url": "https://cdn.modrinth.com/data/NNAgCjsB/7873452d6cede4daed12da3d7d8c193ab88b4fd6_96.webp",
+          "type": "both",
+          "mod_id": "entityculling",
+          "file_id": "Dx3xsUER",
+          "source": "modrinth",
+          "from": "",
+          "file": "entityculling-fabric-1.9.5-mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/Dx3xsUER/entityculling-fabric-1.9.5-mc1.21.11.jar"
+        },
+        {
+          "name": "Mod Menu",
+          "image_url": "https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png",
+          "type": "both",
+          "mod_id": "modmenu",
+          "file_id": "17.0.0-beta.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "modmenu-17.0.0-beta.2.jar",
+          "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/JWQVh32x/modmenu-17.0.0-beta.2.jar"
+        },
+        {
+          "name": "Lithium",
+          "image_url": "https://cdn.modrinth.com/data/gvQqBUqZ/bcc8686c13af0143adf4285d741256af824f70b7_96.webp",
+          "type": "both",
+          "mod_id": "lithium",
+          "file_id": "mc1.21.11-0.21.3-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "lithium-fabric-0.21.3+mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/qvNsoO3l/lithium-fabric-0.21.3%2Bmc1.21.11.jar"
+        },
+        {
+          "name": "ImmediatelyFast",
+          "image_url": "https://cdn.modrinth.com/data/5ZwdcRci/e57b6b451425692ac17ad322d5e14bea686a383a_96.webp",
+          "type": "both",
+          "mod_id": "immediatelyfast",
+          "file_id": "1.14.2+1.21.11-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "ImmediatelyFast-Fabric-1.14.2+1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/QwkfUKSj/ImmediatelyFast-Fabric-1.14.2%2B1.21.11.jar"
+        },
+        {
+          "name": "Xaero's Minimap",
+          "image_url": "https://cdn.modrinth.com/data/1bokaNcj/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp",
+          "type": "both",
+          "mod_id": "xaeros-minimap",
+          "file_id": "fabric-1.21.11-25.3.10",
+          "source": "modrinth",
+          "from": "",
+          "file": "xaerominimap-fabric-1.21.11-25.3.10.jar",
+          "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/avSqR3vF/xaerominimap-fabric-1.21.11-25.3.10.jar"
+        },
+        {
+          "name": "[ETF] Entity Texture Features",
+          "image_url": "https://cdn.modrinth.com/data/BVzZfTc1/af683d206d50b05258d865b0d6e4aa2f2cee12f2_96.webp",
+          "type": "both",
+          "mod_id": "entitytexturefeatures",
+          "file_id": "7.0.9-fabric-1.21.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "entity_texture_features_1.21.11-fabric-7.0.9.jar",
+          "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/3uFr0jys/entity_texture_features_1.21.11-fabric-7.0.9.jar"
+        },
+        {
+          "name": "[EMF] Entity Model Features",
+          "image_url": "https://cdn.modrinth.com/data/4I1XuqiY/6e5bbd0d06b1741bfdab6c0cfab6de8fdaf0064c_96.webp",
+          "type": "both",
+          "mod_id": "entity-model-features",
+          "file_id": "3.0.12-fabric-1.21.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "entity_model_features_1.21.11-fabric-3.0.12.jar",
+          "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/uvlfzqyo/entity_model_features_1.21.11-fabric-3.0.12.jar"
+        },
+        {
+          "name": "Subtle Effects",
+          "image_url": "https://cdn.modrinth.com/data/4q8UOK1d/8a5d3febe9a9badba435a3f66a49668d04ada01f_96.webp",
+          "type": "both",
+          "mod_id": "subtle-effects",
+          "file_id": "g71tZwIq",
+          "source": "modrinth",
+          "from": "",
+          "file": "SubtleEffects-fabric-1.21.11-1.13.2.jar",
+          "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/g71tZwIq/SubtleEffects-fabric-1.21.11-1.13.2.jar"
+        },
+        {
+          "name": "Fzzy Config",
+          "image_url": "https://cdn.modrinth.com/data/hYykXjDp/11f469b1bf1f201a95c2e3ddc09ca47d85c3ed53.png",
+          "type": "both",
+          "mod_id": "fzzy-config",
+          "file_id": "0.7.6+1.21.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "fzzy_config-0.7.6+1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/nSB6xGOS/fzzy_config-0.7.6%2B1.21.11.jar"
+        },
+        {
+          "name": "Fabric Language Kotlin",
+          "image_url": "https://cdn.modrinth.com/data/Ha28R6CL/72c3d74aeb665e45aea93a945a01474cbce3b7da_96.webp",
+          "type": "both",
+          "mod_id": "fabric-language-kotlin",
+          "file_id": "1.13.9+kotlin.2.3.10",
+          "source": "modrinth",
+          "from": "",
+          "file": "fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
+          "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/ViT4gucI/fabric-language-kotlin-1.13.9%2Bkotlin.2.3.10.jar"
+        },
+        {
+          "name": "Hold My Items",
+          "image_url": "https://cdn.modrinth.com/data/AP8rDDLS/9bbc2280465042645bc65e06abe97cd880d88113_96.webp",
+          "type": "both",
+          "mod_id": "hold-my-items",
+          "file_id": "KZm1qTcU",
+          "source": "modrinth",
+          "from": "",
+          "file": "HMI 5.1.1 (1.21.11).jar",
+          "url": "https://cdn.modrinth.com/data/AP8rDDLS/versions/KZm1qTcU/HMI%205.1.1%20%281.21.11%29.jar"
         }
       ]
     }
