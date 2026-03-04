@@ -5,5 +5,22 @@
   "loader_version": "",
   "minecraft_version": "1.20.1",
   "image_url": "https://raw.githubusercontent.com/fadegor05/legendochka/main/logo.png",
-  "containers": []
+  "containers": [
+    {
+      "content_type": "mods",
+      "content": [
+        {
+          "name": "Fabric API",
+          "image_url": "https://cdn.modrinth.com/data/P7dR8mSH/icon.png",
+          "type": "both",
+          "mod_id": "fabric-api",
+          "file_id": "0.92.7+1.20.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "fabric-api-0.92.7+1.20.1.jar",
+          "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/L6LGItxd/fabric-api-0.92.7%2B1.20.1.jar"
+        }
+      ]
+    }
+  ]
 }
