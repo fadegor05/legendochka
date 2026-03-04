@@ -184,6 +184,105 @@
           "from": "",
           "file": "appleskin-fabric-mc1.21.11-3.0.8.jar",
           "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/59ti1rvg/appleskin-fabric-mc1.21.11-3.0.8.jar"
+        },
+        {
+          "name": "Jade 🔍",
+          "image_url": "https://cdn.modrinth.com/data/nvQzSEkH/b04217bc2b7dc524c4d12f81ff42cc1cefb9b0fc_96.webp",
+          "type": "both",
+          "mod_id": "jade",
+          "file_id": "21.1.2+fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "Jade-1.21.11-Fabric-21.1.2.jar",
+          "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/552ldiCx/Jade-1.21.11-Fabric-21.1.2.jar"
+        },
+        {
+          "name": "Continuity",
+          "image_url": "https://cdn.modrinth.com/data/1IjD5062/icon.png",
+          "type": "both",
+          "mod_id": "continuity",
+          "file_id": "3.0.1-beta.1+1.21.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "continuity-3.0.1-beta.1+1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/1IjD5062/versions/mX1iknM1/continuity-3.0.1-beta.1%2B1.21.11.jar"
+        },
+        {
+          "name": "BadOptimizations",
+          "image_url": "",
+          "type": "both",
+          "mod_id": "badoptimizations",
+          "file_id": "Q3Dusz2j",
+          "source": "modrinth",
+          "from": "",
+          "file": "BadOptimizations-2.4.1-1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/Q3Dusz2j/BadOptimizations-2.4.1-1.21.11.jar"
+        },
+        {
+          "name": "Shulker Box Tooltip",
+          "image_url": "https://cdn.modrinth.com/data/2M01OLQq/bb490716cf2590cf84100a495931c3d4743bce43_96.webp",
+          "type": "both",
+          "mod_id": "shulkerboxtooltip",
+          "file_id": "5.2.15+1.21.11-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "shulkerboxtooltip-fabric-5.2.15+1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/2lPKqJBJ/shulkerboxtooltip-fabric-5.2.15%2B1.21.11.jar"
+        },
+        {
+          "name": "Visuality",
+          "image_url": "https://cdn.modrinth.com/data/rI0hvYcd/5c866549318e907bbfe0d525afe43cb17a36a481.png",
+          "type": "both",
+          "mod_id": "visuality",
+          "file_id": "0.7.12+1.21.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "visuality-0.7.12+1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/rI0hvYcd/versions/H81pJbu3/visuality-0.7.12%2B1.21.11.jar"
+        },
+        {
+          "name": "Visual Workbench",
+          "image_url": "https://cdn.modrinth.com/data/kfqD1JRw/e56a31e890d21c82cc454593e023df09f5ae3c36_96.webp",
+          "type": "both",
+          "mod_id": "visual-workbench",
+          "file_id": "21.11.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "VisualWorkbench-v21.11.1-mc1.21.11-Fabric.jar",
+          "url": "https://cdn.modrinth.com/data/kfqD1JRw/versions/dn5ujpT7/VisualWorkbench-v21.11.1-mc1.21.11-Fabric.jar"
+        },
+        {
+          "name": "Roughly Enough Items (REI)",
+          "image_url": "https://cdn.modrinth.com/data/nfn13YXA/54ac5daa4166011bae713448e84413987316433a_96.webp",
+          "type": "both",
+          "mod_id": "rei",
+          "file_id": "21.11.814+fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "RoughlyEnoughItems-21.11.814-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/nfn13YXA/versions/zwCdgCLz/RoughlyEnoughItems-21.11.814-fabric.jar"
+        },
+        {
+          "name": "Oritech",
+          "image_url": "https://cdn.modrinth.com/data/4sYI62kA/e032cbed64099e56c1d005ab7717325247b81f07_96.webp",
+          "type": "both",
+          "mod_id": "oritech",
+          "file_id": "Ttqmf9Aj",
+          "source": "modrinth",
+          "from": "",
+          "file": "oritech-fabric-1.21.1-1.0.1.jar",
+          "url": "https://cdn.modrinth.com/data/4sYI62kA/versions/Ttqmf9Aj/oritech-fabric-1.21.1-1.0.1.jar"
+        },
+        {
+          "name": "Architectury API",
+          "image_url": "https://cdn.modrinth.com/data/lhGA9TYQ/05fe3a61c28faaccaec3533b92e1b321edde7bf6_96.webp",
+          "type": "both",
+          "mod_id": "architectury-api",
+          "file_id": "19.0.1+fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "architectury-19.0.1-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/uNdfrcQ8/architectury-19.0.1-fabric.jar"
         }
       ]
     }
