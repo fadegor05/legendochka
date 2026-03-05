@@ -888,6 +888,28 @@
           "from": "",
           "file": "vanilla-structure-update-v2.8.jar",
           "url": "https://cdn.modrinth.com/data/q3gDW66d/versions/p9AB4oNm/vanilla-structure-update-v2.8.jar"
+        },
+        {
+          "name": "Forge Config API Port",
+          "image_url": "https://cdn.modrinth.com/data/ohNO6lps/cb3b942cc18a66a0f35f802e004713f134e46cc2_96.webp",
+          "type": "both",
+          "mod_id": "forge-config-api-port",
+          "file_id": "uXrWPsCu",
+          "source": "modrinth",
+          "from": "",
+          "file": "ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
+          "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/uXrWPsCu/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar"
+        },
+        {
+          "name": "Formations (Structure Library)",
+          "image_url": "https://cdn.modrinth.com/data/tPe4xnPd/02786e18fd252e7bd4fb25754f09dfb584d67a2a_96.webp",
+          "type": "both",
+          "mod_id": "formations",
+          "file_id": "1.0.4-fabric-mc1.21.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "formations-1.0.4-fabric-mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/tPe4xnPd/versions/LtVqLEE5/formations-1.0.4-fabric-mc1.21.11.jar"
         }
       ]
     },
