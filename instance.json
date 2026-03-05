@@ -987,6 +987,17 @@
           "from": "",
           "file": "pneumonocore-1.2.1+1.21.11+A.jar",
           "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/Y03YVYzM/pneumonocore-1.2.1%2B1.21.11%2BA.jar"
+        },
+        {
+          "name": "Zoomify",
+          "image_url": "https://cdn.modrinth.com/data/w7ThoJFB/e2de67a0bfb9e8aa2347982ab3ec5463f26cca31_96.webp",
+          "type": "both",
+          "mod_id": "zoomify",
+          "file_id": "2.15.2+1.21.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "zoomify-2.15.2+1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/gI5KZI8V/zoomify-2.15.2%2B1.21.11.jar"
         }
       ]
     },
