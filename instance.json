@@ -910,6 +910,83 @@
           "from": "",
           "file": "formations-1.0.4-fabric-mc1.21.11.jar",
           "url": "https://cdn.modrinth.com/data/tPe4xnPd/versions/LtVqLEE5/formations-1.0.4-fabric-mc1.21.11.jar"
+        },
+        {
+          "name": "ItemPhysic Lite",
+          "image_url": "https://cdn.modrinth.com/data/OuyCgP8t/0b6af647b8bd2f5b7230b86566311692273f3360_96.webp",
+          "type": "both",
+          "mod_id": "itemphysic-lite",
+          "file_id": "1.6.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "ItemPhysicLite_FABRIC_v1.6.11_mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/OuyCgP8t/versions/1hUpcULe/ItemPhysicLite_FABRIC_v1.6.11_mc1.21.11.jar"
+        },
+        {
+          "name": "CreativeCore",
+          "image_url": "https://cdn.modrinth.com/data/OsZiaDHq/4953ecd3c0c8b185b2a56d64cdb104b03f3e5038_96.webp",
+          "type": "both",
+          "mod_id": "creativecore",
+          "file_id": "2.14.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "CreativeCore_FABRIC_v2.14.11_mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/jyLHWJlj/CreativeCore_FABRIC_v2.14.11_mc1.21.11.jar"
+        },
+        {
+          "name": "Inventory Interactions",
+          "image_url": "https://cdn.modrinth.com/data/FCzmUKBr/589027e6f84620dbc7c969edad54793b1c19c050_96.webp",
+          "type": "both",
+          "mod_id": "inventory-interactions",
+          "file_id": "1.0.0+1.21.11+fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "InventoryInteractions-1.0.0+1.21.11+fabric.jar",
+          "url": "https://cdn.modrinth.com/data/FCzmUKBr/versions/AH330Xch/InventoryInteractions-1.0.0%2B1.21.11%2Bfabric.jar"
+        },
+        {
+          "name": "MossyLib",
+          "image_url": "https://cdn.modrinth.com/data/ffLDUGbm/1787470c1ca81b2d0e0b3a9370d6f039d4f13207_96.webp",
+          "type": "both",
+          "mod_id": "mossylib",
+          "file_id": "1.1.0+1.21.11+fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "MossyLib-1.1.0+1.21.11+fabric.jar",
+          "url": "https://cdn.modrinth.com/data/ffLDUGbm/versions/6SVXscXs/MossyLib-1.1.0%2B1.21.11%2Bfabric.jar"
+        },
+        {
+          "name": "Inventory Particles",
+          "image_url": "https://cdn.modrinth.com/data/XYnKrsxH/e6973926d0f896e2bf7df8d69a7e53e78502606f_96.webp",
+          "type": "both",
+          "mod_id": "inventory-particles",
+          "file_id": "1.4.0+1.21.11+fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "InventoryParticles-1.4.0+1.21.11+fabric.jar",
+          "url": "https://cdn.modrinth.com/data/XYnKrsxH/versions/IaMHyBwi/InventoryParticles-1.4.0%2B1.21.11%2Bfabric.jar"
+        },
+        {
+          "name": "Gravestones",
+          "image_url": "https://cdn.modrinth.com/data/Heh3BbSv/e10b4d60fb1d7eb24044b8c40f0eec4346e5894a_96.webp",
+          "type": "both",
+          "mod_id": "pneumono_gravestones",
+          "file_id": "1.2.10+1.21.11+A",
+          "source": "modrinth",
+          "from": "",
+          "file": "gravestones-1.2.10+1.21.11+A.jar",
+          "url": "https://cdn.modrinth.com/data/Heh3BbSv/versions/GaB494SM/gravestones-1.2.10%2B1.21.11%2BA.jar"
+        },
+        {
+          "name": "PneumonoCore",
+          "image_url": "https://cdn.modrinth.com/data/ZLKQjA7t/c34b767b808a8649ef277a3901a93b186dfe59e4.png",
+          "type": "both",
+          "mod_id": "pneumono_core",
+          "file_id": "1.2.1+1.21.11+A",
+          "source": "modrinth",
+          "from": "",
+          "file": "pneumonocore-1.2.1+1.21.11+A.jar",
+          "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/Y03YVYzM/pneumonocore-1.2.1%2B1.21.11%2BA.jar"
         }
       ]
     },
