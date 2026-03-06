@@ -494,17 +494,6 @@
           "url": "https://cdn.modrinth.com/data/x02cBj9Y/versions/iY0FQLmu/status-effect-bars-1.0.10.jar"
         },
         {
-          "name": "Wakes",
-          "image_url": "https://cdn.modrinth.com/data/dlNu0RQY/46be95a28f27da8a98e9721b6695703fcec2d7d8_96.webp",
-          "type": "both",
-          "mod_id": "wakes",
-          "file_id": "0.5.1+1.21.11",
-          "source": "modrinth",
-          "from": "",
-          "file": "wakes-0.5.1+1.21.11.jar",
-          "url": "https://cdn.modrinth.com/data/dlNu0RQY/versions/4zYKqDML/wakes-0.5.1%2B1.21.11.jar"
-        },
-        {
           "name": "Structory",
           "image_url": "https://cdn.modrinth.com/data/aKCwCJlY/81c79a9d58c605ad79c4a8da15c865902bec8d42_96.webp",
           "type": "both",
@@ -932,17 +921,6 @@
           "from": "",
           "file": "CreativeCore_FABRIC_v2.14.11_mc1.21.11.jar",
           "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/jyLHWJlj/CreativeCore_FABRIC_v2.14.11_mc1.21.11.jar"
-        },
-        {
-          "name": "Inventory Interactions",
-          "image_url": "https://cdn.modrinth.com/data/FCzmUKBr/589027e6f84620dbc7c969edad54793b1c19c050_96.webp",
-          "type": "both",
-          "mod_id": "inventory-interactions",
-          "file_id": "1.0.0+1.21.11+fabric",
-          "source": "modrinth",
-          "from": "",
-          "file": "InventoryInteractions-1.0.0+1.21.11+fabric.jar",
-          "url": "https://cdn.modrinth.com/data/FCzmUKBr/versions/AH330Xch/InventoryInteractions-1.0.0%2B1.21.11%2Bfabric.jar"
         },
         {
           "name": "MossyLib",
