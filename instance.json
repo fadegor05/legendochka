@@ -976,6 +976,17 @@
           "from": "",
           "file": "zoomify-2.15.2+1.21.11.jar",
           "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/gI5KZI8V/zoomify-2.15.2%2B1.21.11.jar"
+        },
+        {
+          "name": "PatPat [Mod \u0026 Plugin]",
+          "image_url": "https://cdn.modrinth.com/data/dw7LChq9/125417ed34406a044dd53fdf9a7fdfe210a6fcf0_96.webp",
+          "type": "both",
+          "mod_id": "patpat",
+          "file_id": "1.2.4+1.21.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "PatPat-1.2.4+1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/dw7LChq9/versions/xFScpfft/PatPat-1.2.4%2B1.21.11.jar"
         }
       ]
     },
