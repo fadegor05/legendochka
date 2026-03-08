@@ -998,6 +998,17 @@
           "from": "",
           "file": "lambdynamiclights-4.9.1+1.21.11.jar",
           "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/5Tp7kdU0/lambdynamiclights-4.9.1%2B1.21.11.jar"
+        },
+        {
+          "name": "Xaero's World Map",
+          "image_url": "https://cdn.modrinth.com/data/NcUtCpym/354080f65407e49f486fcf9c4580e82c45ae63b8_96.webp",
+          "type": "both",
+          "mod_id": "xaeros-world-map",
+          "file_id": "fabric-1.21.11-1.40.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "xaeroworldmap-fabric-1.21.11-1.40.11.jar",
+          "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/CkZVhVE0/xaeroworldmap-fabric-1.21.11-1.40.11.jar"
         }
       ]
     },
@@ -1069,6 +1080,61 @@
           "from": "",
           "file": "waystones_1.21.11.zip",
           "url": "https://cdn.modrinth.com/data/BcyGAwlg/versions/zN2O0Dqp/waystones_1.21.11.zip"
+        },
+        {
+          "name": "Icon Xaero's",
+          "image_url": "https://cdn.modrinth.com/data/LWGq2eg6/a0cfa176092473cef51d30f7dad949db32b24f44_96.webp",
+          "type": "both",
+          "mod_id": "icon-xaeros",
+          "file_id": "1.21",
+          "source": "modrinth",
+          "from": "",
+          "file": "Icon Xaero's 1.21.zip",
+          "url": "https://cdn.modrinth.com/data/LWGq2eg6/versions/gOX3ZiSy/Icon%20Xaero%27s%201.21.zip"
+        },
+        {
+          "name": "Icon Xaero's X FreshAnimations",
+          "image_url": "https://cdn.modrinth.com/data/u4iPx1Dr/78fd3b6814105ce2f9e84049f3f9f11969e77729_96.webp",
+          "type": "both",
+          "mod_id": "icon-xaeros-x-freshanimations",
+          "file_id": "0.4",
+          "source": "modrinth",
+          "from": "",
+          "file": "Icon Fresh 0.4.zip",
+          "url": "https://cdn.modrinth.com/data/u4iPx1Dr/versions/dVHdQVak/Icon%20Fresh%200.4.zip"
+        },
+        {
+          "name": "Icons",
+          "image_url": "https://cdn.modrinth.com/data/O7z3QKAG/781618226a84b66b3dfc2dbb718d614315988be1_96.webp",
+          "type": "both",
+          "mod_id": "icons",
+          "file_id": "1.13.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "Icons v.1.13.2.zip",
+          "url": "https://cdn.modrinth.com/data/O7z3QKAG/versions/mhzWX68N/Icons%20v.1.13.2.zip"
+        },
+        {
+          "name": "Icons Removed ADS",
+          "image_url": "https://cdn.modrinth.com/data/7Rq0ipFz/b0753e82cf369625097e85353b0c2d0cdc28f448.png",
+          "type": "both",
+          "mod_id": "icons-advertisement-removal",
+          "file_id": "1.0",
+          "source": "modrinth",
+          "from": "",
+          "file": "Icon Branding Remover - For 1.8-1.21.8.zip",
+          "url": "https://cdn.modrinth.com/data/7Rq0ipFz/versions/OXZb3ihp/Icon%20Branding%20Remover%20-%20For%201.8-1.21.8.zip"
+        },
+        {
+          "name": "Icons - Addition",
+          "image_url": "https://cdn.modrinth.com/data/2aHPb3sX/cc0fe18b6c09feb17e41adf6a1dfe270ab1f36f0.png",
+          "type": "both",
+          "mod_id": "icons-additions",
+          "file_id": "1.2.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "Icons-Additions-1.2.1.zip",
+          "url": "https://cdn.modrinth.com/data/2aHPb3sX/versions/m9yefrGs/Icons-Additions-1.2.1.zip"
         }
       ]
     }
