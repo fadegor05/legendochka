@@ -987,6 +987,17 @@
           "from": "",
           "file": "PatPat-1.2.4+1.21.11.jar",
           "url": "https://cdn.modrinth.com/data/dw7LChq9/versions/xFScpfft/PatPat-1.2.4%2B1.21.11.jar"
+        },
+        {
+          "name": "LambDynamicLights - Dynamic Lights",
+          "image_url": "https://cdn.modrinth.com/data/yBW8D80W/d4f5c3ff8df7caf024178b04eca6d69f95979cfe_96.webp",
+          "type": "both",
+          "mod_id": "lambdynamiclights",
+          "file_id": "4.9.1+1.21.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "lambdynamiclights-4.9.1+1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/5Tp7kdU0/lambdynamiclights-4.9.1%2B1.21.11.jar"
         }
       ]
     },
