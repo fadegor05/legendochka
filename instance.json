@@ -1020,6 +1020,17 @@
           "from": "",
           "file": "e4mc-fabric-6.0.6.jar",
           "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/JSmcqwxn/e4mc-fabric-6.0.6.jar"
+        },
+        {
+          "name": "Skin Restorer",
+          "image_url": "https://cdn.modrinth.com/data/ghrZDhGW/f5bc55cd7b07f988b5f28d7d3f0a4c8e9f480bc1_96.webp",
+          "type": "both",
+          "mod_id": "skinrestorer",
+          "file_id": "2.6.0+1.21.11-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "skinrestorer-2.6.0+1.21.11-fabric.jar",
+          "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/leBCMyEe/skinrestorer-2.6.0%2B1.21.11-fabric.jar"
         }
       ]
     },
