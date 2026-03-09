@@ -1009,6 +1009,17 @@
           "from": "",
           "file": "xaeroworldmap-fabric-1.21.11-1.40.11.jar",
           "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/CkZVhVE0/xaeroworldmap-fabric-1.21.11-1.40.11.jar"
+        },
+        {
+          "name": "e4mc",
+          "image_url": "https://cdn.modrinth.com/data/qANg5Jrr/10d983cad2496eaa6fd7fe9af2b7454763bc97c9_96.webp",
+          "type": "both",
+          "mod_id": "e4mc",
+          "file_id": "6.0.6-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "e4mc-fabric-6.0.6.jar",
+          "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/JSmcqwxn/e4mc-fabric-6.0.6.jar"
         }
       ]
     },
