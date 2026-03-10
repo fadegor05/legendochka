@@ -1031,6 +1031,39 @@
           "from": "",
           "file": "skinrestorer-2.6.0+1.21.11-fabric.jar",
           "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/leBCMyEe/skinrestorer-2.6.0%2B1.21.11-fabric.jar"
+        },
+        {
+          "name": "Backpacks!",
+          "image_url": "https://cdn.modrinth.com/data/MGcd6kTf/92c378c17ca08571527577fa73309a6e962cbebd_96.webp",
+          "type": "both",
+          "mod_id": "vanilla-backpacks",
+          "file_id": "LFL9BMMz",
+          "source": "modrinth",
+          "from": "",
+          "file": "1.3.5-backpacks_mod-1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/MGcd6kTf/versions/LFL9BMMz/1.3.5-backpacks_mod-1.21.11.jar"
+        },
+        {
+          "name": "Mouse Tweaks",
+          "image_url": "https://cdn.modrinth.com/data/aC3cM3Vq/6c0eaa4e60a9c87f4766f222ff63286f09da32c0_96.webp",
+          "type": "both",
+          "mod_id": "mouse-tweaks",
+          "file_id": "1.21.11-2.30-fabric",
+          "source": "modrinth",
+          "from": "",
+          "file": "MouseTweaks-fabric-mc1.21.11-2.30.jar",
+          "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/i1duwnJl/MouseTweaks-fabric-mc1.21.11-2.30.jar"
+        },
+        {
+          "name": "Mouse Wheelie",
+          "image_url": "https://cdn.modrinth.com/data/u5Ic2U1u/icon.png",
+          "type": "both",
+          "mod_id": "mouse-wheelie",
+          "file_id": "1.16.1+mc1.21.11",
+          "source": "modrinth",
+          "from": "",
+          "file": "mouse-wheelie-1.16.1+mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/u5Ic2U1u/versions/8m6JEmbd/mouse-wheelie-1.16.1%2Bmc1.21.11.jar"
         }
       ]
     },
